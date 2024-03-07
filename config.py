@@ -53,6 +53,7 @@ if 'Kali' in release:
     external_tools_directory = '/opt'
     ext_repositories_to_sync =  [
                                 'https://github.com/swisskyrepo/PayloadsAllTheThings',
+                                'https://github.com/seleniumbase/SeleniumBase'
                                 ]
 
     # These git repositories will be synced to the 'personal repo' directory. I use my home directory.
