@@ -18,7 +18,7 @@ if 'Kali' in release:
     # These kali packages will be installed
     packages_to_install = ['most', 'nvidia-driver', 'ttf-mscorefonts-installer', 'gnupg2', 'curl','pydf', 'htop', 'gobuster', 'amass',
                            'golang', 'exif', 'hexedit', 'jq', 'python3-pip', 'python3-venv',
-                           'apt-transport-https', 'curl', 'ca-certifices', 'software-properties-common',
+                           'apt-transport-https', 'curl', 'ca-certificates', 'software-properties-common',
                            'filezilla', 'meld', 'ncat', 'net-tools',
                            'tmux', 'bash-completion', 'ieee-data', 'python3-netaddr',
                            'ruby-full', 'powercat', 'cewl', 'nbtscan', 'tree', 'upx-ucl',
